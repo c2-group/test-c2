@@ -10,4 +10,4 @@
     </script>
 </head>
 
-$ E = m C^2 $
+$E=mc^2$
