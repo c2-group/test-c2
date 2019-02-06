@@ -1,19 +1,9 @@
 
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
+
+# 这是一个测试Markdown网页
 
 ## Welcome to GitHub Pages
 
-$E=mc^2$
 
 [testURL](./testmath.md)
 
