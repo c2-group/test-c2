@@ -247,7 +247,7 @@ $A. (\frac1{17} + \frac1{19}) \times 20 \quad B. (\frac1{24} + \frac1{29}) \time
 
 - $(1 + \frac 12 + \frac 13 + ...+ \frac1{2011} )\times (\frac 12 + \frac 13 + ...+ \frac1{2012} ) - $
 
-$(\frac 12 + \frac 13 + ...+ \frac1{2011} ) \times (1 + \frac 12 + \frac 13 + ...+ \frac1{2012} )$
+$$(\frac 12 + \frac 13 + ...+ \frac1{2011} ) \times (1 + \frac 12 + \frac 13 + ...+ \frac1{2012} )$$
 
 >
 
@@ -261,5 +261,5 @@ $(\frac 12 + \frac 13 + ...+ \frac1{2011} ) \times (1 + \frac 12 + \frac 13 + ..
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4MTk5OTFdfQ==
+eyJoaXN0b3J5IjpbLTE0ODIwNTA4MDMsNTA4MTk5OTFdfQ==
 -->
